@@ -5,7 +5,7 @@ pygame.init()
 
 WIDTH, HEIGHT = 600,1200
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Bresenham's Line Algorithm")
+pygame.display.set_caption("Bresenham's Line Algorithm!")
 
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
